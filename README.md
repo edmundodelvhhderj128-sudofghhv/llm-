@@ -168,7 +168,7 @@ llm-router-app/
 
 ```bash
 # 克隆
-git clone https://github.com/edmundodelvhhderj128-sudofghhv/llm-smart-router.git
+git clone https://github.com/say611/llm-smart-router.git
 cd llm-smart-router
 
 # 安装依赖
